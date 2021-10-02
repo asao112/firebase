@@ -1,5 +1,6 @@
 <template>
   <div>
+    <img alt="Vue logo" src="../assets/logo.png">
     <h1>新規登録画面</h1>
     <form>
       <ul>
